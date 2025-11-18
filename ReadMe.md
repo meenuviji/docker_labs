@@ -43,36 +43,15 @@ Training completed — Logistic Regression model saved! by Meena
 
 ### Screenshots
 
+### Docker Build Success
+![Build Success](screenshots/docker_build_success.png)
 
-Docker Build Success
-
-Shows the complete Docker image build process, including dependency installation and successful tagging of the image.
-
-screenshots/docker_build_success.png
-
+### Docker Run
+![Build Success 2](screenshots/docker_run_output.png)
 
 
-Docker Run Output
-
-Displays the model accuracy and the confirmation message after training is completed inside the Docker container.
-
-screenshots/docker_run_output.png
-
-
-Files Inside Container
-
-Screenshot taken after entering the container with docker run -it meenu-lab1 sh
-Shows that the model file and script files exist inside the /app directory.
-
-screenshots/inside_container_files.png
-
-
-
-GitHub Repository Directory View
-
-Shows the final project structure on GitHub including Dockerfile, main.py, requirements.txt, README.md, and screenshots folder.
-
-screenshots/github_repo_view.png
+### Files Inside Container
+![Inside Container](screenshots/inside_container_files.png)
 
 
 ⸻
