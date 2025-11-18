@@ -44,14 +44,14 @@ Training completed — Logistic Regression model saved! by Meena
 ### Screenshots
 
 ### Docker Build Success
-![Build Success](screenshots/docker_build_success.png)
+![Build Success](screenshots/docker_full_build_and_run.png)
 
 ### Docker Run
-![Build Success 2](screenshots/docker_run_output.png)
+![Build Success 2](screenshots/docker_run_build_and_ls.png)
 
 
 ### Files Inside Container
-![Inside Container](screenshots/inside_container_files.png)
+![Inside Container](screenshots/docker_images_list.png)
 
 
 ⸻
