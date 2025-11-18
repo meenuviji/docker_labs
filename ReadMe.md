@@ -10,7 +10,7 @@
     •   Executed the full ML pipeline inside Docker
 
 ```
-⸻
+---
 
 Files in This Repository
 ```bash
@@ -20,14 +20,14 @@ requirements.txt    # Dependencies used inside the Docker container
 screenshots/        # Build & run screenshots for lab submission
 
 ```
-⸻
+---
 
 How to Build the Docker Image
 ```bash
 docker build -t meenu-lab1 .
 ```
 
-⸻
+---
 
 How to Run the Docker Container
 ```bash
@@ -39,7 +39,7 @@ Model Accuracy: 0.97xx
 Training completed — Logistic Regression model saved! by Meena
 
 ```
-⸻
+---
 
 Screenshots
 
@@ -50,7 +50,7 @@ Docker Run Output
 Files Inside Container
 
 
-⸻
+---
 
 Summary
 
