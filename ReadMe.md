@@ -12,7 +12,7 @@
 ```
 ---
 
-Files in This Repository
+### Files in This Repository
 ```bash
 Dockerfile          # Docker build instructions for Python 3.11 environment
 main.py             # Customized ML training script (Logistic Regression)
@@ -22,14 +22,14 @@ screenshots/        # Build & run screenshots for lab submission
 ```
 ---
 
-How to Build the Docker Image
+### How to Build the Docker Image
 ```bash
 docker build -t meenu-lab1 .
 ```
 
 ---
 
-How to Run the Docker Container
+### How to Run the Docker Container
 ```bash
 docker run meenu-lab1
 ```
@@ -41,7 +41,7 @@ Training completed — Logistic Regression model saved! by Meena
 ```
 ---
 
-Screenshots
+### Screenshots
 
 Docker Build Success
 
@@ -52,7 +52,7 @@ Files Inside Container
 
 ---
 
-Summary
+### Summary
 
 This lab demonstrates how to:
     •   Containerize a machine learning script with Docker
